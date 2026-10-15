@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7F1D1D,100:FF1744&height=210&section=header&text=JOWY05&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20DEVELOPER%20%7C%20SOFTWARE%20%7C%20PRODUCT%20DESIGN&descAlignY=57&descSize=15" width="100%" alt="Jowy05 banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7F1D1D,100:FF1744&height=210&section=header&text=JOWY05&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DESARROLLO%20DE%20SOFTWARE%20%7C%20IA%20%7C%20DISE%C3%91O%20DE%20PRODUCTO&descAlignY=57&descSize=15" width="100%" alt="Jowy05 banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=FF4655&center=true&vCenter=true&width=680&lines=Desarrollador+e+integrador+de+IA;Software+%7C+Dise%C3%B1o+de+producto+%7C+Soporte;Explorando+el+mundo+de+la+inteligencia+artificial;Si+algo+me+interesa%2C+voy+con+todo" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=FF4655&center=true&vCenter=true&width=680&lines=Desarrollo+e+integraci%C3%B3n+de+IA;C%C3%B3digo%2C+dise%C3%B1o+y+soporte;Ahora+mismo%2C+centrado+en+JowyFit;Aprendo+mejor+cuando+puedo+probar+las+cosas" alt="Texto animado sobre lo que hago" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jowy05)
 
@@ -10,23 +10,17 @@
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
-¡Buenas! Soy **Joel**, también conocido como `Jowy05`. Trabajo como **desarrollador e integrador de IA en prácticas en Conexia Tecnologías** y tengo formación en Desarrollo de Aplicaciones Multiplataforma (DAM).
+Soy Joel, aunque por aquí suelo usar el nombre `Jowy05`. Actualmente estoy haciendo las prácticas de DAM en Conexia Tecnologías, donde mi puesto es desarrollador e integrador de IA. Tengo aprobados los módulos del ciclo y me queda terminar las prácticas para obtener el título.
 
-Mi trabajo es bastante polivalente: participo en desarrollo y diseño de producto, doy soporte técnico y atiendo a clientes, incluidos clientes extranjeros. También participo en reuniones en inglés y echo una mano puntualmente con tareas de marketing.
+Mi trabajo toca varias partes del producto. Participo en desarrollo y diseño, doy soporte técnico y atiendo a clientes. También trato con clientes extranjeros y participo en reuniones en inglés. De vez en cuando colaboro con alguna tarea de marketing.
 
-### 🧠 Cómo soy
+Soy bastante cabezota cuando algo me interesa. Si un proyecto me engancha, le dedico mucho tiempo hasta entenderlo y conseguir que avance. La inteligencia artificial me llama especialmente la atención y quiero seguir aprendiendo sobre ella, sobre todo viendo qué se puede construir con las herramientas que van apareciendo.
 
-Soy bastante cabezota cuando algo me interesa: si un proyecto me engancha, me implico al **1000 %**. Me gusta investigar, resolver problemas y aprender por el camino. Ahora mismo, uno de los campos que más me llama la atención es la **inteligencia artificial** y todo lo que se puede construir con ella.
+En el trabajo uso inglés con clientes y en reuniones. No tengo un certificado oficial, así que prefiero explicar dónde lo utilizo antes que ponerle una etiqueta demasiado exacta.
 
-- 🎓 **DAM:** módulos aprobados; pendiente de finalizar las prácticas para obtener el título.
-- 🌍 **Inglés:** nivel intermedio-alto en contexto profesional, sin certificación oficial. Atiendo a clientes extranjeros y participo en reuniones en inglés.
-- 🧩 **Intereses:** desarrollo de software, IA, diseño de producto y resolución de problemas.
-
----
-
-## ⚔️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 <div align="center">
 
@@ -40,39 +34,36 @@ Soy bastante cabezota cuando algo me interesa: si un proyecto me engancha, me im
 
 </div>
 
-También he trabajado con JavaScript, PHP, SQL/MySQL y MongoDB, y he utilizado herramientas como Git, IntelliJ IDEA y NetBeans.
+También he trabajado con JavaScript, PHP, SQL/MySQL y MongoDB. Para desarrollar y organizar el código he utilizado Git, IntelliJ IDEA y NetBeans.
 
----
+## Proyectos
 
-## 🚀 Proyectos
+### [JowyFit](https://github.com/Jowy05/JowyFit) — en desarrollo
 
-### 🏋️ [JowyFit](https://github.com/Jowy05/JowyFit) · En desarrollo
-Aplicación de entrenamiento personal. Es mi proyecto personal activo y el que estoy desarrollando actualmente.
+Es el proyecto personal en el que estoy centrado ahora mismo: una aplicación de entrenamiento personal pensada para que sea fácil de usar. Todavía está en proceso, así que iré incorporando mejoras a medida que las tenga listas.
 
-### 🌌 [NovalisPage](https://github.com/Jowy05/NovalisPage) · Proyecto personal
-Wiki interactiva desarrollada con Astro para documentar **mi propio mundo de Dungeons & Dragons**.
+### [NovalisPage](https://github.com/Jowy05/NovalisPage) — proyecto personal
 
-### 🎓 Proyectos académicos
-- [Web-Sostenibilitat](https://github.com/Jowy05/Web-Sostenibilitat) — proyecto web realizado durante los estudios.
-- [ProyectoCurling](https://github.com/Jowy05/ProyectoCurling) — proyecto académico desarrollado con Java.
+Una wiki hecha con Astro para organizar y presentar información sobre mi propio mundo de Dungeons & Dragons. Es una forma de juntar dos cosas que me gustan: crear mundos y construir herramientas para darles forma.
 
----
+### Proyectos de estudios
 
-## 💼 Experiencia
+- [Web-Sostenibilitat](https://github.com/Jowy05/Web-Sostenibilitat): proyecto web que hice durante mis estudios.
+- [ProyectoCurling](https://github.com/Jowy05/ProyectoCurling): proyecto académico desarrollado con Java.
 
-**Desarrollador e integrador de IA (prácticas) — Conexia Tecnologías**  
-*30 de marzo - 9 de diciembre de 2026 (prácticas)*
+## Experiencia
 
-Desarrollo e integración vinculados al producto, diseño, soporte técnico y atención a clientes nacionales e internacionales. Participación en reuniones en inglés y colaboración puntual en tareas de marketing.
+**Desarrollador e integrador de IA en prácticas — Conexia Tecnologías**  
+*30 de marzo - 9 de diciembre de 2026*
+
+Participo en tareas de desarrollo y diseño del producto, soporte técnico y atención a clientes. También atiendo a clientes extranjeros, participo en reuniones en inglés y colaboro puntualmente con tareas de marketing.
 
 **Técnico de reparación informática — LP-Soluciones**  
 *Octubre de 2023 - enero de 2024*
 
-Diagnóstico y reparación de equipos, resolución de problemas de software y configuración de redes domésticas.
+Reparación de equipos, resolución de problemas de software y configuración de redes en domicilios particulares.
 
----
-
-## 📊 Mi actividad en GitHub
+## Actividad en GitHub
 
 <div align="center">
 
@@ -81,12 +72,12 @@ Diagnóstico y reparación de equipos, resolución de problemas de software y co
 
 </div>
 
+---
+
 <div align="center">
 
-### 🔥 STILL LEARNING. STILL BUILDING. STILL LEVELING UP.
+**Me gusta pasar de una idea a algo que pueda probar, entender y mejorar.**
 
-*Un proyecto más, un problema más resuelto y algo nuevo aprendido.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,100:0D1117&height=110&section=footer" width="100%" alt="Pie de página" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,100:0D1117&height=100&section=footer" width="100%" alt="Pie de página" />
 
 </div>
